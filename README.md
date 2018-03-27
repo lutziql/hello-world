@@ -1,2 +1,5 @@
 # hello-world
-test
+lutziql's test,
+Just for testing the flow in GitHub
+More to come..
+RaduL
